@@ -16,7 +16,7 @@ $(document).ready(function () {
         window.web3 = new Web3("http://localhost:8545");
     }
 
-    const contractAddress = "0x4d86e9605d9a4424938aF4C8777e59b2Fb9A44bd";
+    const contractAddress = "0x0a4eFd1d7332A3c9513F9a1b376Bc7a87def8502";
     const contractAbi = [
         {
             "inputs": [],
